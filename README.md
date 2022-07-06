@@ -17,7 +17,7 @@
  
 # Installation
 ```
-git clone https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection.git
+git clone https://github.com/brain-facens/YOLOv6
 cd ONNX-YOLOv6-Object-Detection
 pip install -r requirements.txt
 ```
