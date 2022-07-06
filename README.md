@@ -55,7 +55,6 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  ```
  python video_object_detection.py
  ```
- ![!YOLOv6 detection video](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection/blob/main/doc/img/yolov6s_video.gif)
  
   *Original video: https://youtu.be/yXEb0fWLJIY*
 
