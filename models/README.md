@@ -1,2 +1,2 @@
 
-Here you will put the .onnx template
+Here you will put the .onnx model
