@@ -1,4 +1,4 @@
-# ONNX YOLOv6 Object Detection
+# Cellphone detection using YOLOv6
  Python scripts performing object detection using the YOLOv6 model in ONNX.
 
 # Important
