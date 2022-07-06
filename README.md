@@ -51,14 +51,12 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  python webcam_object_detection.py
  ```
 
- * **Video inference**: https://youtu.be/yYo0XQp97vo
+ * **Video inference**: 
  ```
  python video_object_detection.py
  ```
- 
-  *Original video: https://youtu.be/yXEb0fWLJIY*
 
- * **Comparison with YOLOv5**: https://youtu.be/yd1DhOf8mW4
+ * **Comparison with YOLOv5**:
  ```
  python video_object_detection.py
  ```
