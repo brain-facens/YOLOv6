@@ -51,7 +51,7 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  python webcam_object_detection.py
  ```
 
- * **Video inference**: 
+ * **Video inference**: It is necessary to change the video path that will be used for detection 
  ```
  python video_object_detection.py
  ```
