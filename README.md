@@ -41,7 +41,7 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  
 # Examples
 
- * **Image inference**: It is necessary to change the image path that will be used for detection
+ * **Image inference**: Is it necessary to change the image path that will be used for detection directly in the code, or will the default image be used
  ```
  python image_object_detection.py
  ```
@@ -51,7 +51,7 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  python webcam_object_detection.py
  ```
 
- * **Video inference**: It is necessary to change the video path that will be used for detection 
+ * **Video inference**: Is it necessary to change the video path that will be used for detection directly in the code, or will the default video be used
  ```
  python video_object_detection.py
  ```
