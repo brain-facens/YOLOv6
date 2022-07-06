@@ -41,7 +41,7 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  
 # Examples
 
- * **Image inference**:
+ * **Image inference**: It is necessary to change the image path that will be used for detection
  ```
  python image_object_detection.py
  ```
