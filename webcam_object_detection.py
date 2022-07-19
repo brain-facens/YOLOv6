@@ -6,7 +6,7 @@ from YOLOv6 import YOLOv6
 cap = cv2.VideoCapture(0)
 
 # Initialize YOLOv6 object detector
-model_path = "path/to/yout/yolov6.onnx model"
+model_path = "path/to/your/yolov6.onnx model"
 yolov6_detector = YOLOv6(model_path, conf_thres=0.7, iou_thres=0.5)
 
 cv2.namedWindow("Detected Objects", cv2.WINDOW_NORMAL)
