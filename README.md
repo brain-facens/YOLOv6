@@ -54,6 +54,9 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
  * **Video inference**: Is it necessary to change the video path that will be used for detection directly in the code, or will the default video be used
  ```
  python video_object_detection.py
+ 
+ * **Runing using shell script**: 
+ ./run.sh
  ```
 
  * **Comparison with YOLOv5**:
