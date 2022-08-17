@@ -39,23 +39,7 @@ The original model was converted to ONNX using the following Colab notebook from
 # Pytorch model
 The original Pytorch model can be found in this repository: [YOLOv6 Repository](https://github.com/meituan/YOLOv6)
  
-# Examples
-
- * **Image inference**: Is it necessary to change the image path that will be used for detection directly in the code, or will the default image be used
- ```
- python image_object_detection.py
- ```
- 
- * **Webcam inference**:
- ```
- python webcam_object_detection.py
- ```
-
- * **Video inference**: Is it necessary to change the video path that will be used for detection directly in the code, or will the default video be used
- ```
- python video_object_detection.py
- ```
- * **Runing using shell script**: 
+ * **Runing**: 
  ```
  ./run.sh
  ```
